@@ -195,12 +195,12 @@ class ErrorHandler{
 				$error = error_get_last();
 				$lines = file($error['file']);
 				$num = $error['line'];
-
 				for($i=$num-7;$i<$num+7;$i++){
 					if($i == $num-1){
 						echo "<span class='linewrong'>";
 					}
-					echo "<br><span class='linenum'>".$i."</span> <b style='padding-left:5px;'>".$lines[$i]."</b>";
+					$k = $i+1; 
+					echo "<br><span class='linenum'>".$k."</span> <b style='padding-left:5px;'>".$lines[$i]."</b>";
 					if($i == $num-1){
 						echo "</span>";
 					}
