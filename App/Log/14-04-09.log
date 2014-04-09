@@ -1080,3 +1080,1015 @@
 17:08:59 | SessionID: 6j6iivhlmu9d2p854bt6ltit36 =\= Route requested(success):  	/Vibius/localStorage | Route => function has been called.
 
 17:09:34 | SessionID: 6j6iivhlmu9d2p854bt6ltit36 =\= Route requested(success):  	/Vibius/localStorage | Route => function has been called.
+
+19:14:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(success):  	/Vibius/ | Route => function has been called. =\= Debugger: require(): Failed opening required '/var/www/Vibius/Core/View/../../App/Views/myView.php' (include_path='.:/usr/share/php:/usr/share/pear'), /var/www/Vibius/Core/View/View.php at line 16
+
+19:15:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(success):  	/Vibius/ | Route => function has been called.
+
+20:16:00 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:27 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:28 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:28 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:28 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:31 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:36 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:37 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:38 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:40 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:16:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:17:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:17:20 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:17:27 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:17:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:06 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:19 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:20 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:21 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:39:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:41:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:41:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:41:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:41:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:42:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:42:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:42:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:43:15 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:43:48 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:44:19 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:45:06 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:45:07 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:45:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:45:51 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:45:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:46:03 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:46:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:46:15 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:46:24 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:46:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:47:14 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:48:19 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:48:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:48:36 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:48:37 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:48:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:48:51 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:49:20 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:49:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:49:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:49:36 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:49:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:49:59 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:50:00 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:50:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:50:12 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:50:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:50:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:50:25 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:50:50 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:51:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:51:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:51:15 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:51:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:51:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:51:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:51:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:52:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:52:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:52:40 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:52:54 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:52:58 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:53:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:53:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:54:13 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:55:32 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:55:33 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:55:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:55:36 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(success):  	/Vibius/ | Route => function has been called.
+
+20:55:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(success):  	/Vibius/ | Route => function has been called.
+
+20:55:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:55:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:57:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:57:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:57:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+20:57:18 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:00:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:00:13 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:00:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:00:24 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:00:31 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:00:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:01:00 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:01:19 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:02:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:02:50 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:02:58 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:03:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:03:38 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:03:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:03:52 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:01 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:19 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:58 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:04:58 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:05:02 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:05:07 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:05:19 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:05:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:05:38 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:05:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:05:49 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:05:54 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:06:01 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:06:08 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:06:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:06:13 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:06:59 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:07:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:07:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:07:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:07:29 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:07:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:07:52 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:08:48 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:01 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:31 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:31 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:32 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:37 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:38 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:48 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:09:49 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:11:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:11:54 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:11:54 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:11:59 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:12:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:12:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:12:27 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:12:28 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:11 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:58 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:59 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:13:59 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:14:07 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:14:11 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:14:27 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:14:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:14:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:14:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:15:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:15:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:15:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:16:13 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:16:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:16:55 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:17:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:17:14 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:17:27 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:18:08 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:18:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:19:02 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:19:08 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:19:32 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:19:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:19:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:20:01 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:20:38 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:20:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:20:58 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:21:06 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:21:12 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:21:18 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:21:24 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:21:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:21:49 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:22:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:22:13 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:22:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:22:59 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:23:00 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:23:01 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:23:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:23:31 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:23:49 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:24:03 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:24:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:24:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:24:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:24:28 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:24:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:24:40 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:24:40 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:25:08 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:25:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:25:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:25:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:03 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:18 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:18 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:19 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:24 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:36 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:51 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:52 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:52 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:26:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(success):  	/Vibius/ | Route => function has been called.
+
+21:26:55 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:27:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:28:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:28:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:28:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:28:54 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:28:55 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:29:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:29:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:29:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:30:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:30:17 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:30:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:30:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:30:40 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:30:52 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:30:56 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:32:00 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:32:11 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:32:25 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:32:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:32:52 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:33:07 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:33:07 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:33:20 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:33:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:33:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:34:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:34:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:34:11 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:34:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:34:32 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:34:47 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:35:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:35:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:35:28 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:35:37 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:35:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:00 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:00 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:18 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:31 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:38 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:36:48 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:37:07 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:37:07 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:37:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:38:01 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:38:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:38:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:38:59 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:39:12 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:39:50 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:40:00 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:40:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:40:50 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:41:07 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:41:13 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:41:37 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:41:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:41:48 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:41:51 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:42:11 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:42:17 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:42:48 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:42:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:43:08 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:43:18 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:43:23 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:43:24 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:43:24 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:43:28 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:43:50 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:13 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:13 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:28 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:48 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:44:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:08 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:28 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:39 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:40 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:45:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:15 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:16 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:24 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:49 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:46:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:47:01 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:47:17 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:47:24 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:48:15 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:48:40 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:48:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:49:17 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:49:37 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:50:36 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:50:37 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:50:38 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:50:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:50:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:50:44 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:50:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:50:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:51:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:51:31 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:51:56 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:51:56 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:51:56 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:52:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:52:31 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:52:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:52:58 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:53:11 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:53:27 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:53:54 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:54:17 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:54:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:54:41 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:54:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:55:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:55:47 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:55:55 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:55:55 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:55:56 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:56:20 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:57:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:57:38 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:57:48 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:57:55 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:57:56 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:57:56 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:57:59 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:58:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:58:10 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:58:22 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:58:37 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:58:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:58:48 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:59:34 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:59:47 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+21:59:55 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:00:05 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:00:35 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:00:58 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:01:25 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:01:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:01:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:01:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:01:47 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:01:47 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:01:56 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:02:07 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:02:15 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:02:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:02:31 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:02:36 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:02:49 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:03:18 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:03:37 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/test | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:04:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:05:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:05:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:05:58 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:06:30 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:06:45 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:06:46 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:06:51 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:06:52 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:07:13 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:07:26 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:07:43 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:07:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:00 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:08 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:09 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:19 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:20 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:25 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:38 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:42 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:50 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:51 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:08:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:09:14 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:09:19 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/tafsfas | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:09:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(success):  	/Vibius/ | Route => function has been called.
+
+22:09:55 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/dssdggd | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:15:53 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/dssdggd?q=asffsafsa | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:15:57 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/dssdggd?q=asffsafsafassssssssssss | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:16:04 | SessionID: u2747qjhupp1ebbbqtdnivvj65 =\= Route requested(failure):  	/Vibius/dssdggd?q=asffsafsafasssssssssssssffsafsafasssssssssssssffsafsafasssssssssssssffsafsafasssssssssssssffsafsafassssssssssss | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:29:00 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:31:08 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:31:09 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:31:09 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:31:10 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:31:17 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:32:32 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:32:33 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:32:33 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
+
+22:32:34 | SessionID: 55flbfmoir3vtdo9832khq9474 =\= Route requested(failure):  	/Vibius/tetat | No route found =\= Debugger: No route was found!, /var/www/Vibius/Core/Router/Router.php at line 139
