@@ -28,14 +28,14 @@
    		//we can set our mode to true, if we want to create row if it doesnt already exists
 
    	//we can operate our database by selecting desired table and row, and using those operations:
-
+	
    	$data = Storage::open('dbName')->table('tableName')->row('rowName',true)->get();
    	//this will get our row content into a variable
    	instead of get we can use ->pluck('username') //or any other thing we want to get from our row
    							  ->insert(array('username' => 'value','key' => value))
    							  ->update(array('username' => 'Newvalue'))
    					Remember to check for errors using ->error(); at the end of operation // returns boolean
-	
+	$data = Storage::open('testDB')->table('testTable')->getTable(); //get all rows from table
 	We can also check if database/table/row exists using:
 
 	Storage::exists(database,table,row);
@@ -214,6 +214,26 @@ class Storage{
 			$stuff = unserialize(file_get_contents($file));
 			fclose($handle);
 			return $stuff;
+		}
+		return $this;
+	}
+
+	public function getTable(){
+		$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table;
+		if(file_exists($file)){
+			$table = scandir($file);
+			$table = array_slice($table, 2);
+			$content = array();
+			array_pop($table);
+			foreach ($table as $key) {
+			$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/".$key;
+			$handle = fopen($file, "r");
+			$stuff = unserialize(file_get_contents($file));
+			array_push($content, $stuff);
+			fclose($handle);
+			
+			}
+			return $content;
 		}
 		return $this;
 	}
