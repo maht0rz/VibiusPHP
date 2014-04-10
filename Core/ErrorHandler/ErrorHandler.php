@@ -38,7 +38,7 @@ class ErrorHandler{
 						  background: rgba(0, 0, 0, 0.5);
 						}
 					.sidebar{
-						position:absolute;
+						position:relative;
 						top:0;
 						color:#fff;
 						overflow-y:scroll;
@@ -90,6 +90,7 @@ class ErrorHandler{
 					}
 					.main{
 						position:relative;
+						top:-80%;
 						float:right;
 						background-color:#1C1C19;
 						width:78%;
