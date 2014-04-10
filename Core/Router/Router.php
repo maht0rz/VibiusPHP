@@ -7,12 +7,10 @@ class Router{
 	public static function setRoutes($routes){
 		
 		Hooks::preRouter();
-
 		
 		$request = $_SERVER['REQUEST_URI'];
-		$requestArray = explode("/", $request);
-		
-
+		$request = explode('?',$request);
+		$requestArray = explode("/", $request[0]);
 		
 		$localhost = configApp::$localhost;
 		$local_folders = configApp::$local_folder+1;
@@ -22,8 +20,6 @@ class Router{
 			$requestArray = array_slice($requestArray,$local_folders);
 		
 		}
-		
-		#var_dump($requestArray);
 		
 		$request="";
 		foreach ($requestArray as $r) {
@@ -135,7 +131,6 @@ function generateRandomString($length = 200) {
 			}else{
 				$message = "Route requested(failure):  	".$_SERVER['REQUEST_URI']." | No route found";
 				Logger::write($message);
-				#echo "not found!";
 				trigger_error('No route was found!');
 
 			}
