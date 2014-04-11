@@ -238,6 +238,108 @@ class Storage{
 		return $this;
 	}
 
+	public function getWhere($what,$operator,$whatTo){
+
+			$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table;
+		if(file_exists($file)){
+			$table = scandir($file);
+			$table = array_slice($table, 2);
+			$content = array();
+			array_pop($table);
+				foreach ($table as $key) {
+					$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/".$key;
+					$handle = fopen($file, "r");
+					$stuff = unserialize(file_get_contents($file));
+					$thing = $stuff[$what];
+					
+					$checker = $whatTo;
+					switch($operator){
+						case '>':
+							if($thing > $whatTo){
+								array_push($content, $stuff);
+							}					
+							break;
+						case '>=':
+							if($thing >= $whatTo){
+								array_push($content, $stuff);
+							}					
+							break;
+						case '<':
+							if($thing < $whatTo){
+								array_push($content, $stuff);
+							}					
+							break;
+						case '<=':
+							if($thing <= $whatTo){
+								array_push($content, $stuff);
+							}					
+							break;
+						case '=':
+							if($thing == $whatTo){
+								array_push($content, $stuff);
+							}					
+							break;
+
+					}
+					
+					fclose($handle);
+				}
+			return $content;
+		}
+		return $this;
+	}
+
+	public function pluckWhere($pluck,$what,$operator,$whatTo){
+
+			$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table;
+		if(file_exists($file)){
+			$table = scandir($file);
+			$table = array_slice($table, 2);
+			$content = array();
+			array_pop($table);
+				foreach ($table as $key) {
+					$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/".$key;
+					$handle = fopen($file, "r");
+					$stuff = unserialize(file_get_contents($file));
+					$thing = $stuff[$what];
+					
+					$checker = $whatTo;
+					switch($operator){
+						case '>':
+							if($thing > $whatTo){
+								array_push($content, $stuff[$pluck]);
+							}					
+							break;
+						case '>=':
+							if($thing >= $whatTo){
+								array_push($content, $stuff[$pluck]);
+							}					
+							break;
+						case '<':
+							if($thing < $whatTo){
+								array_push($content, $stuff[$pluck]);
+							}					
+							break;
+						case '<=':
+							if($thing <= $whatTo){
+								array_push($content, $stuff[$pluck]);
+							}					
+							break;
+						case '=':
+							if($thing == $whatTo){
+								array_push($content, $stuff[$pluck]);
+							}					
+							break;
+
+					}
+					
+					fclose($handle);
+				}
+			return $content;
+		}
+		return $this;
+	}
+
 	public function pluck($name){
 		$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/".$this->row.".php";
 		if(file_exists($file)){
