@@ -15,21 +15,14 @@ class Router{
 		$localhost = configApp::$localhost;
 		$local_folders = configApp::$local_folder+1;
 		
-		if($localhost){
-			
-			$requestArray = array_slice($requestArray,$local_folders);
-		
-		}
-		
+		$requestArray = array_slice($requestArray,$local_folders);
+	
 		$request="";
 		foreach ($requestArray as $r) {
 			$request = $request."/".$r;
 		}
 		$request = substr($request, 1);
 		
-		if(!$localhost){
-			$request = substr($request, 1);
-		}
 
 function generateRandomString($length = 200) {
 		    $characters = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
