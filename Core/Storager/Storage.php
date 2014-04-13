@@ -36,6 +36,11 @@
    							  ->update(array('username' => 'Newvalue'))
    					Remember to check for errors using ->error(); at the end of operation // returns boolean
 	$data = Storage::open('testDB')->table('testTable')->getTable(); //get all rows from table
+
+	Where function:
+
+	$data = Storage::open('dbName')->table('tableName')->getWhere('something','=','value');
+	$data = Storage::open('dbName')->table('tableName')->pluckWhere('something','>=','value');
 	We can also check if database/table/row exists using:
 
 	Storage::exists(database,table,row);
@@ -178,6 +183,364 @@ class Storage{
 			$this->error = false;
 		}
 		return $this;
+	}
+
+	public function deleteWhere($what,$operator,$whatTo){
+
+
+			$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table;
+		if(file_exists($file)){
+			$table = scandir($file);
+			$table = array_slice($table, 3);
+
+			$content = array();
+				foreach ($table as $key) {
+					$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/".$key;
+					$handle = fopen($file, "r");
+					$stuff = unserialize(file_get_contents($file));
+					$thing = $stuff[$what];
+					
+					$checker = $whatTo;
+					switch($operator){
+						case '>':
+							if($thing > $whatTo){
+								unlink($file);
+							}					
+							break;
+						case '>=':
+							if($thing >= $whatTo){
+								unlink($file);	
+							}					
+							break;
+						case '<':
+							if($thing < $whatTo){
+									unlink($file);
+							}					
+							break;
+						case '<=':
+							if($thing <= $whatTo){
+								unlink($file);
+							}					
+							break;
+						case '=':
+							if($thing == $whatTo){
+								unlink($file);
+							}					
+							break;
+
+					}
+					
+					#fclose($handle);
+				}
+			return $content;
+		}
+		return $this;
+
+
+	}
+
+
+	public function updateWhere($data,$what,$operator,$whatTo){
+
+
+			$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table;
+		if(file_exists($file)){
+			$table = scandir($file);
+			$table = array_slice($table, 3);
+
+			$content = array();
+				foreach ($table as $key) {
+					$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/".$key;
+					$handle = fopen($file, "r");
+					$stuff = unserialize(file_get_contents($file));
+					$thing = $stuff[$what];
+					
+					$checker = $whatTo;
+					switch($operator){
+						case '>':
+							if($thing > $whatTo){
+								$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+									if(file_exists($struct)){
+
+									include $struct;
+										
+										$dif = array_diff_key($data, $structure);
+										if(empty($dif)){
+											$old = unserialize(file_get_contents($file));
+											foreach ($old as $key => $value) {
+												$old[$key] = $data[$key];
+											}
+											$data = $old;
+												$handle = fopen($file, "w+");
+												fwrite($handle, serialize($data));
+												fclose($handle);
+												
+										}else{
+											$this->error = false;
+										}
+										
+
+									}else{
+										$this->error = false;
+									}
+							}					
+							break;
+						case '>=':
+							if($thing >= $whatTo){
+									$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+									if(file_exists($struct)){
+
+									include $struct;
+										
+										$dif = array_diff_key($data, $structure);
+										if(empty($dif)){
+											$old = unserialize(file_get_contents($file));
+											foreach ($old as $key => $value) {
+												$old[$key] = $data[$key];
+											}
+											$data = $old;
+												$handle = fopen($file, "w+");
+												fwrite($handle, serialize($data));
+												fclose($handle);
+												
+										}else{
+											$this->error = false;
+										}
+										
+
+									}else{
+										$this->error = false;
+									}
+							}					
+							break;
+						case '<':
+							if($thing < $whatTo){
+									$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+									if(file_exists($struct)){
+
+									include $struct;
+										
+										$dif = array_diff_key($data, $structure);
+										if(empty($dif)){
+											$old = unserialize(file_get_contents($file));
+											foreach ($old as $key => $value) {
+												$old[$key] = $data[$key];
+											}
+											$data = $old;
+												$handle = fopen($file, "w+");
+												fwrite($handle, serialize($data));
+												fclose($handle);
+												
+										}else{
+											$this->error = false;
+										}
+										
+
+									}else{
+										$this->error = false;
+									}
+							}					
+							break;
+						case '<=':
+							if($thing <= $whatTo){
+								$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+									if(file_exists($struct)){
+
+									include $struct;
+										
+										$dif = array_diff_key($data, $structure);
+										if(empty($dif)){
+											$old = unserialize(file_get_contents($file));
+											foreach ($old as $key => $value) {
+												$old[$key] = $data[$key];
+											}
+											$data = $old;
+												$handle = fopen($file, "w+");
+												fwrite($handle, serialize($data));
+												fclose($handle);
+												
+										}else{
+											$this->error = false;
+										}
+										
+
+									}else{
+										$this->error = false;
+									}
+							}					
+							break;
+						case '=':
+							if($thing == $whatTo){
+									$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+									if(file_exists($struct)){
+
+									include $struct;
+										
+										$dif = array_diff_key($data, $structure);
+										if(empty($dif)){
+											$old = unserialize(file_get_contents($file));
+											foreach ($old as $key => $value) {
+												$old[$key] = $data[$key];
+											}
+											$data = $old;
+												$handle = fopen($file, "w+");
+												fwrite($handle, serialize($data));
+												fclose($handle);
+												
+										}else{
+											$this->error = false;
+										}
+										
+
+									}else{
+										$this->error = false;
+									}
+							}					
+							break;
+
+					}
+					
+					#fclose($handle);
+				}
+			return $content;
+		}
+		return $this;
+
+
+	}
+
+	public function insertWhere($data,$what,$operator,$whatTo){
+
+
+			$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table;
+		if(file_exists($file)){
+			$table = scandir($file);
+			$table = array_slice($table, 3);
+
+			$content = array();
+				foreach ($table as $key) {
+					$file = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/".$key;
+					$handle = fopen($file, "r");
+					$stuff = unserialize(file_get_contents($file));
+					$thing = $stuff[$what];
+					
+					$checker = $whatTo;
+					switch($operator){
+						case '>':
+							if($thing > $whatTo){
+								$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+								if(file_exists($struct)){
+								include $struct;
+									
+									$dif = array_diff_key($data, $structure);
+									if(empty($dif)){
+											$handle = fopen($file, "w+");
+											fwrite($handle, serialize($data));
+											fclose($handle);
+									}else{
+										$this->error = false;
+									}
+									
+
+								}else{
+									$this->error = false;
+								}
+							}					
+							break;
+						case '>=':
+							if($thing >= $whatTo){
+									$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+								if(file_exists($struct)){
+								include $struct;
+									
+									$dif = array_diff_key($data, $structure);
+									if(empty($dif)){
+											$handle = fopen($file, "w+");
+											fwrite($handle, serialize($data));
+											fclose($handle);
+									}else{
+										$this->error = false;
+									}
+									
+
+								}else{
+									$this->error = false;
+								}
+							}					
+							break;
+						case '<':
+							if($thing < $whatTo){
+									$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+								if(file_exists($struct)){
+								include $struct;
+									
+									$dif = array_diff_key($data, $structure);
+									if(empty($dif)){
+											$handle = fopen($file, "w+");
+											fwrite($handle, serialize($data));
+											fclose($handle);
+									}else{
+										$this->error = false;
+									}
+									
+
+								}else{
+									$this->error = false;
+								}
+							}					
+							break;
+						case '<=':
+							if($thing <= $whatTo){
+									$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+								if(file_exists($struct)){
+								include $struct;
+									
+									$dif = array_diff_key($data, $structure);
+									if(empty($dif)){
+											$handle = fopen($file, "w+");
+											fwrite($handle, serialize($data));
+											fclose($handle);
+									}else{
+										$this->error = false;
+									}
+									
+
+								}else{
+									$this->error = false;
+								}
+							}					
+							break;
+						case '=':
+							if($thing == $whatTo){
+									$struct = dirname(__FILE__)."/../../App/Storage/".$this->database."/".$this->table."/__structure.php";
+								if(file_exists($struct)){
+								include $struct;
+									
+									$dif = array_diff_key($data, $structure);
+									if(empty($dif)){
+											$handle = fopen($file, "w+");
+											fwrite($handle, serialize($data));
+											fclose($handle);
+									}else{
+										$this->error = false;
+									}
+									
+
+								}else{
+									$this->error = false;
+								}
+							}					
+							break;
+
+					}
+					
+					#fclose($handle);
+				}
+			return $content;
+		}
+		return $this;
+
+
 	}
 
 	public function insert($data){
