@@ -201,7 +201,10 @@ class ErrorHandler{
 						echo "<span class='linewrong'>";
 					}
 					$k = $i+1; 
-					echo "<br><span class='linenum'>".$k."</span> <b style='padding-left:5px;'>".$lines[$i]."</b>";
+					if($k >= 1){
+						echo "<br><span class='linenum'>".$k."</span> <b style='padding-left:5px;'>".htmlentities($lines[$i])."</b>";
+					
+					}
 					if($i == $num-1){
 						echo "</span>";
 					}
