@@ -5,7 +5,6 @@
  * Date: 4.4.2014
  * Time: 19:13
  */
-
 /*
 //Sends an email plain text or html email.
 $success = Mail::create($from, $to, $subject, $content)->send();
@@ -15,7 +14,9 @@ $mail->addAttachment("path_to_my_file.pdf");
 $success = $mail->send();
 
 */
-class Mail {
+
+class Mail
+{
 
     /**
      * @var string The contents of email. HTML or plaintext.
@@ -52,8 +53,9 @@ class Mail {
 
     /**
      * Creates a new mail object with specified.
-     * @param $from string Sender's email address.
-     * @param $to  string Recipient's email address.
+     *
+     * @param $from    string Sender's email address.
+     * @param $to      string Recipient's email address.
      * @param $content string Content of email.
      * @param $subject string Subject of email.
      */
@@ -66,6 +68,7 @@ class Mail {
 
     /**
      * Adds an attachment to email.
+     *
      * @param $file string The path to file.
      */
     public function addAttachment($file)
@@ -76,24 +79,27 @@ class Mail {
 
     /**
      * Creates a new instance of Mail.
-     * @param $from string Message sender.
-     * @param $to string Message recipient.
-     * @param $subject string The subject of message.
-     * @param $content string The content of message.
-     * @param $charset string The charset of message.
+     *
+     * @param $from        string Message sender.
+     * @param $to          string Message recipient.
+     * @param $subject     string The subject of message.
+     * @param $content     string The content of message.
+     * @param $charset     string The charset of message.
      * @param $attachments array The array of attached files.
+     *
      * @return Mail mail
      */
     public static function create($from, $to, $subject, $content, $charset = 'utf-8')
     {
         $mail = new Mail($from, $to, $subject, $content);
         $mail->setCharset($charset);
-    
+
         return $mail;
     }
 
     /**
      * Tries to send email.
+     *
      * @return bool if the email was sent.
      */
     public function send()
@@ -102,10 +108,9 @@ class Mail {
         $this->isHTML = $this->hasHTMLTags();
         //Build from, replay headers.
         $headers = "From: " . $this->from . "\r\n" .
-                   "Reply-To: " . $this->from . "\r\n";
+            "Reply-To: " . $this->from . "\r\n";
         //Add html or attachment headers.
-        if($this->hasAttachment)
-        {
+        if ($this->hasAttachment) {
             //We need a random hash to send file.
             $separator = md5(time());
 
@@ -115,15 +120,12 @@ class Mail {
             $headers .= "Content-Transfer-Encoding: 7bit" . "\r\n";
 
             //Message
-            if($this->isHTML)
-            {
+            if ($this->isHTML) {
                 $headers .= "--" . $separator . "\r\n";
                 $headers .= "Content-Type: text/html; charset=\"" . $this->charset . "\"" . "\r\n";
                 $headers .= "Content-Transfer-Encoding: 8bit" . "\r\n" . "\r\n";
                 $headers .= $this->content . "\r\n" . "\r\n";
-            }
-            else
-            {
+            } else {
                 $headers .= "--" . $separator . "\r\n";
                 $headers .= "Content-Type: text/plain; charset=\"" . $this->charset . "\"" . "\r\n";
                 $headers .= "Content-Transfer-Encoding: 8bit" . "\r\n" . "\r\n";
@@ -131,8 +133,7 @@ class Mail {
             }
 
             //Attachments
-            foreach($this->attachments as $file)
-            {
+            foreach ($this->attachments as $file) {
                 //Gets content of file.
                 $fileContent = file_get_contents($file);
                 $headers .= "--" . $separator . "\r\n";
@@ -145,32 +146,31 @@ class Mail {
 
             //Send email.
             return mail($this->to, $this->subject, "", $headers);
-        }
-        else
-        {
-            if($this->isHTML)
-            {
+        } else {
+            if ($this->isHTML) {
                 $headers .= "MIME-Version: 1.0" . "\r\n";
                 $headers .= "Content-type: text/html; charset=\"" . $this->charset . "\"" . "\r\n";
             }
 
             //Send email.
-            
+
             return mail($this->to, $this->subject, $this->content, $headers);
         }
     }
 
     /**
      * Checks if email has HTML tags inside content.
+     *
      * @return bool if is HTML or not.
      */
     private function hasHTMLTags()
     {
-        return !(strcmp($this->content, strip_tags($this->content) ) == 0);
+        return !(strcmp($this->content, strip_tags($this->content)) == 0);
     }
 
     /**
      * Sets charset of message.
+     *
      * @param string $charset charset.
      */
     public function setCharset($charset)
@@ -180,6 +180,7 @@ class Mail {
 
     /**
      * Returns the email charset.
+     *
      * @return string charset.
      */
     public function getCharset()
@@ -189,6 +190,7 @@ class Mail {
 
     /**
      * Sets the content of email.
+     *
      * @param string $content
      */
     public function setContent($content)
@@ -198,6 +200,7 @@ class Mail {
 
     /**
      * Returns the content of email.
+     *
      * @return string
      */
     public function getContent()
@@ -207,6 +210,7 @@ class Mail {
 
     /**
      * Sets sender.
+     *
      * @param string $from sender
      */
     public function setFrom($from)
@@ -216,6 +220,7 @@ class Mail {
 
     /**
      * Returns sender.
+     *
      * @return string sender.
      */
     public function getFrom()
@@ -225,6 +230,7 @@ class Mail {
 
     /**
      * Sets subject.
+     *
      * @param string $subject subject.
      */
     public function setSubject($subject)
@@ -234,6 +240,7 @@ class Mail {
 
     /**
      * Returns subject.
+     *
      * @return string subject
      */
     public function getSubject()
@@ -243,6 +250,7 @@ class Mail {
 
     /**
      * Sets recipient.
+     *
      * @param string $to recipient.
      */
     public function setTo($to)
@@ -252,6 +260,7 @@ class Mail {
 
     /**
      * Returns recipient.
+     *
      * @return string recipient.
      */
     public function getTo()

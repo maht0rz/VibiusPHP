@@ -1,7 +1,7 @@
 <?php
 
 $lang = array(
-'YourSelector' => 'translatedString',
-'Login' => 'Prihlasenie',
-'Register' => 'Registracia'
+    'YourSelector' => 'translatedString',
+    'Login'        => 'Prihlasenie',
+    'Register'     => 'Registracia'
 );

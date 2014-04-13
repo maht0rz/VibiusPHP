@@ -1,3 +1,3 @@
 <?php
 
-$structure = array('username' => '','password' => '' ,'email' => '');
+$structure = array('username' => '', 'password' => '', 'email' => '');

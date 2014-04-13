@@ -1,10 +1,12 @@
 <?php
 
-class myModel{
+class myModel
+{
 
-	public static function myFunction(){
-		$query = DB::table('profiles')->get();
-		return $query;
-	}
-	
+    public static function myFunction()
+    {
+        $query = DB::table('profiles')->get();
+        return $query;
+    }
+
 }

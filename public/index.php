@@ -8,5 +8,5 @@ $GLOBALS['start'] = microtime(true);
 require '../Core/FrameworkLoader.php';
 
 //Let the magic happen
-$Framework -> run();
+$Framework ->run();
 

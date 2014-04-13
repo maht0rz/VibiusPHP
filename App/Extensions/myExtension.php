@@ -1,8 +1,10 @@
 <?php
 
-class myExtension{
+class myExtension
+{
 
-	public static function myFunction(){
-		echo "I am an extension method!";
-	}
+    public static function myFunction()
+    {
+        echo "I am an extension method!";
+    }
 }

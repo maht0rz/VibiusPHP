@@ -5,10 +5,12 @@
 
 */
 
-Router::setRoutes(array(
-    '/' => function($args){
-    	//Return welcomeView to user
-    	View::make('welcomeView');
-	}
-));
+Router::setRoutes(
+    array(
+        '/' => function ($args) {
+            //Return welcomeView to user
+            View::make('welcomeView');
+        }
+    )
+);
 
