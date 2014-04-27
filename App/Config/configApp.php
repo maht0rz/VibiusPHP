@@ -7,7 +7,7 @@ class configApp
 
     public static $local_folder = 1;
 
-    public static $debug = false;
+    public static $debug = true;
 
     public static $log = true;
 
@@ -17,7 +17,8 @@ class configApp
     public static function Error($e)
     {
 
-        echo "<b>An error has occured!</b><small>".$e."</small>";
+        echo "<b>This is an error message, can be configured in App/Config/configApp.php</b>";
+        echo $e;
 
     }
 
